@@ -1,0 +1,6 @@
+{
+  "name": "Velocity Rogue: UE5 Open-World Simulator",
+  "description": "An immersive 2D open-world action-adventure game, vehicle sandbox, and interactive Unreal Engine 5 C++ blueprint and Niagara VFX developer workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
